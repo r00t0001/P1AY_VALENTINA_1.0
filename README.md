@@ -1,4 +1,4 @@
-# P1AY
+# P1▶Y
 
 **An open-source, portable protocol for turning personal context into clear actions, observable results, and continuous feedback.**
 
