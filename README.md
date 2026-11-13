@@ -78,7 +78,7 @@ python3 P1AY_FIRST_RUN.py --sync-status
 
 ## Release
 
-**VALENTINA 1.0**
+**VALENTINA 1.1**
 
 Includes the installer, CORE, language layer, USER / COMMUNICATION / CONTEXT templates, onboarding, dashboard builder, and SHA-256 release manifest.
 
